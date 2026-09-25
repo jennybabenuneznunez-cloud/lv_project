@@ -2,9 +2,10 @@
 
 Project Code: WST21-PM-2026-SF
 
-Student Name: MAGALONA,ISIAH ANGELO R.
+Student Name: JENNY BABE C. NUNEZ
 
 Course & Year: BSIT2
+
 Database Used: MySQL
 
 ## Features
@@ -22,9 +23,15 @@ Database Used: MySQL
 5. Run `php artisan serve` and visit `http://127.0.0.1:8000`.
 
 ## Screenshots
-<img width="1911" height="911" alt="image" src="https://github.com/user-attachments/assets/fc0e2803-90e2-4e3d-9984-f827e6103cb4" />
-<img width="1913" height="947" alt="image" src="https://github.com/user-attachments/assets/0013c296-d61e-483f-b7f7-b0d9e62509b7" />
-<img width="1898" height="860" alt="image" src="https://github.com/user-attachments/assets/64d94dc7-a3cf-4305-ba2c-9ef6a74f6769" />
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/422c425a-63d7-45c2-b5b8-bda95169089f" />
+<img width="1904" height="952" alt="image" src="https://github.com/user-attachments/assets/cea8fdf0-738e-476e-a43d-cffbe0846e17" />
+<img width="1903" height="941" alt="image" src="https://github.com/user-attachments/assets/a404019d-9b17-4722-af7b-a289efcfa9ed" />
+<img width="1904" height="945" alt="image" src="https://github.com/user-attachments/assets/6a228b0c-0a5c-4d67-8f4d-4c8fa66c6cc9" />
+
+
+
+
+
 
 
 
