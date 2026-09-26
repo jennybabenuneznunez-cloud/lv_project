@@ -9,11 +9,11 @@ Course & Year: BSIT2
 Database Used: MySQL
 
 ## Features
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Status
+- Add Task: Allows users to create a new task by entering the task title, description, priority, and due date.
+- View Tasks: Displays all saved tasks in one place, making it easy to check pending and completed tasks.
+- Edit Task: Lets users modify task information whenever they need to make changes or corrections.
+- Delete Task: Allows users to remove tasks that are no longer needed from the task list.
+- Update Status: Enables users to mark tasks as completed or change them back to pending with one click.
 
 ## Setup
 1. Clone the repo and run `composer install`.
