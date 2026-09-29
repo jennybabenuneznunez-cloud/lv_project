@@ -9,6 +9,9 @@ Course & Year: BSIT2
 
 Database Used: MySQL
 
+##Overview
+This project is a Laravel-based Personal Task Manager created as a mini project. It helps users create, manage, and organize their tasks in one simple system. The application uses the Laravel MVC structure, where routes, controllers, models, and views work together. Task information is stored in a MySQL database, while Laravel handles the main operations of the system. It also allows users to update task statuses, such as moving tasks from Pending to Completed.
+
 ## Features
 - Add Task: Allows users to create a new task by entering the task title, description, priority, and due date.
 - View Tasks: Displays all saved tasks in one place, making it easy to check pending and completed tasks.
