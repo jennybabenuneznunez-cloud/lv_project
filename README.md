@@ -1,4 +1,5 @@
 # Task Manager (Laravel)
+A simple and user-friendly task management system developed using Laravel and MySQL. It allows users to create, organize, update, and track tasks in one dashboard. The system includes features such as task searching, priority filtering, and status tracking to make task management easier and more organized.
 
 Project Code: WST21-PM-2026-SF
 
