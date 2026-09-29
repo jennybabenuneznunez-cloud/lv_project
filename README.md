@@ -25,35 +25,18 @@ Open the XAMPP Control Panel and start the Apache and MySQL modules.
 2. Create the Database
 Open phpMyAdmin through http://localhost/phpmyadmin and create a new MySQL database using the same name specified in the .env file.
 3. Install Dependencies
-Open the project folder in the terminal and run:
-'''
-composer install
-'''Bash
-5. Create the Environment File
-Create a copy of the .env.example file and rename it to .env:
-'''Bash
-cp .env.example .env
-'''
+Open the project folder in the terminal and run: composer install
+4. Create the Environment File
+Create a copy of the .env.example file and rename it to .env: cp .env.example .env
 5. Generate the Application Key
-Run the following command:
-'''Bash
-php artisan key:generate
-'''
+Run the following command: php artisan key:generate
 6. Reset and Create the Database Tables
-Run:
-'''Bash
-php artisan migrate:fresh
-'''
-7. Start the Laravel Server
-Run:
-'''Bash
-php artisan serve
-'''
+Run: php artisan migrate:fresh
+8. Start the Laravel Server
+Run: ph artisan serve
 8. Open the System
-Open your browser and go to:
-'''Bash
-http://127.0.0.1:8000
-'''
+Open your browser and go to: http://127.0.0.1:8000
+
 Database Reminder:
 Make sure the database settings in the .env file match your MySQL/XAMPP configuration, especially the database name, username, password, and port.
 
